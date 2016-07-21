@@ -1,0 +1,54 @@
+.heading 
+{
+ color:aquamarine
+ font-family:
+ text-align: center; 
+}
+
+.btn btn-default
+{
+  
+padding-top: 50px
+}
+
+
+ul
+{
+  list-style: none
+}
+
+/**social icons**/
+
+#socialList li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+padding-bottom: 50px;
+padding-top: 50px;
+}
+
+
+
+/**Portfolio Section**/
+
+img{
+  max-width: 100%
+}
+
+#portfolio{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#portfolio li{
+  float:  left;
+  width: 45%;
+  margin: 2.5%;
+  Background-color: #ffffff;
+
+}
+
+.navebar, .navbar-default, .navbar-fixed-top{
+background-color: #00ffff;}
