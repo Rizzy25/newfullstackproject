@@ -6,3 +6,6 @@ http://designmodo.github.io/Flat-UI/docs/components.html#fui-navbar  bootstrap h
 http://startbootstrap.com/template-overviews/scrolling-nav/  scrolling bootstrap 
 
 .about-section ---padding 50px
+
+http://127.0.0.1:50834/index.html#page-top
+http://127.0.0.1:50834/index.html#about
